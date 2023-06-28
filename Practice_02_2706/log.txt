@@ -1,0 +1,2 @@
+июн. 27, 2023 2:26:01 PM Practice_02_2706.Task_05 writeToFile
+WARNING: Ошибка: . (Отказано в доступе)
