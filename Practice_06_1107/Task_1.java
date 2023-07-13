@@ -1,7 +1,5 @@
 package Practice_06_1107;
 
-import java.util.Arrays;
-import java.util.Collections;
 import java.util.HashSet;
 
 // Задание №1

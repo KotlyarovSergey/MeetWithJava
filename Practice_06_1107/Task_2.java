@@ -2,6 +2,8 @@ package Practice_06_1107;
 
 import java.util.HashSet;
 
+import javax.xml.crypto.Data;
+
 // Задание №2
 // 1. Продумайте структуру класса Кот. Какие поля и методы будут актуальны для
 // приложения, которое является
@@ -68,6 +70,7 @@ class Cat_theatre{
     String [] skils; //способности кота
     String [] perfomance; // номера в которых участвует кот
     Data [] dataPerfomance; // даты выступлений
+    
 
     // вывести карту данных кота
     // добавить новую дату выступления
